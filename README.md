@@ -7,7 +7,7 @@ I'm a iOS Developer with over 2 years of experiences. My core technology is Swif
 ## ⚡ About Me
 
 - 📱 **Mobile**
-- 👩‍💻 Frontend Developer - **iOS** <i class="fab fa-swift"></i>
+- 👨🏻‍💻 Frontend Developer - **iOS** <i class="fab fa-swift"></i>
 - 🇻🇳 **Vietnamese** living in 🇻🇳 **Vietnam**
 - 🗺 Love to **travel**
 - 📐 Started my career as an **Architect**
