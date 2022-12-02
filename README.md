@@ -12,3 +12,4 @@ I'm a iOS Developer with over 2 years of experiences. My core technology is Swif
 - 🗺 Love to **travel**
 - 📐 Started my career as an **Software engineer**
 - 💻 But I couldn't resist the tech world, and now I'm a happy developer 👨🏻‍💻
+## https://www.linkedin.com/in/le-ngoc-nguyen/
